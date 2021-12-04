@@ -1,0 +1,4 @@
+﻿  num1.cpp
+C:\VProjects\lab_3_1_1\num1.cpp(44,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\VProjects\lab_3_1_1\num1.cpp(51,14): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_3_1_1.vcxproj -> C:\VProjects\lab_3_1_1\Debug\lab_3_1_1.exe

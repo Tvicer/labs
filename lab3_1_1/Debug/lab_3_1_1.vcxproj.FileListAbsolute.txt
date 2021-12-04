@@ -1,0 +1,2 @@
+C:\VProjects\lab_3_1_1\Debug\lab_3_1_1.exe
+C:\VProjects\lab_3_1_1\Debug\lab_3_1_1.pdb
